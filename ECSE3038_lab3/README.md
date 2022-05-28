@@ -1,0 +1,1 @@
+This is a RESTfulAPI that supports the maintenance of a simple user profile. This API is able to perform the actions of a simple HTTP web server It is able to perform actions on a resource such as Create, Read, Update and Delete. 
